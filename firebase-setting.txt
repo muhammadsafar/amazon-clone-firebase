@@ -1,0 +1,15 @@
+deploy to firebase
+
+npm i firebase 
+
+npm i -g firebase-tools
+
+firebase init hosting //v9^
+
+-build
+-index yes
+-github n
+
+npm run build
+
+firebase deploy 
