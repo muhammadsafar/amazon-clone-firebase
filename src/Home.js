@@ -16,14 +16,14 @@ function Home() {
             id="86234982"
             title="Wolfver"
             image="https://images-na.ssl-images-amazon.com/images/I/61xkvfPVupL._AC_UL210_SR195,210_.jpg"
-            price={11.2}
+            price={11127.12}
             rating={5}
           />
           <Product
             id="109724022"
             title="the lean start"
             image="https://images-na.ssl-images-amazon.com/images/I/613KCs7szvL._AC_UL127_SR127,127_.jpg"
-            price={12.9}
+            price={12902.91}
             rating={4}
           />
         </div>
@@ -32,14 +32,14 @@ function Home() {
             id="8908309583"
             title="Wolfver"
             image="https://m.media-amazon.com/images/I/61QQT8i-p-L._AC_UY218_.jpg"
-            price={11.2}
+            price={1001.2}
             rating={5}
           />
           <Product
             id="02348244"
             title="the lean start"
             image="https://m.media-amazon.com/images/I/71k9P6w0V1L._AC_UL320_.jpg"
-            price={12.9}
+            price={121290.91}
             rating={4}
           />
 
@@ -47,7 +47,7 @@ function Home() {
             id="402973242"
             title="the lean start"
             image="https://images-na.ssl-images-amazon.com/images/I/41tzuaDZOPL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
-            price={12.9}
+            price={1000.12}
             rating={4}
           />
         </div>
@@ -56,7 +56,7 @@ function Home() {
             id="9873043"
             title="the lean start"
             image=" https://m.media-amazon.com/images/I/81Grc85hfiL._AC_UY218_.jpg"
-            price={12.9}
+            price={12121.90}
             rating={4}
           />
         </div>

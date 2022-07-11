@@ -1,0 +1,15 @@
+npm i firebase
+
+npm i @stripe/stripe-js
+
+npm i @stripe/react-stripe-js
+
+npm i material/core
+
+npm i react-router-dom
+
+npm i react-currrency-format
+
+npm i axios
+
+npm i express

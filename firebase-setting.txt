@@ -13,3 +13,21 @@ firebase init hosting //v9^
 npm run build
 
 firebase deploy 
+
+
+
+=======================
+
+firebase init functions
+
+-> javascript
+
+->...style yes
+
+->... i npm yes
+
+
+=======================
+
+
+firebase emulotors:start
